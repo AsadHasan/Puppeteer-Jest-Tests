@@ -1,0 +1,24 @@
+{
+  "name": "hoka-puppeteer-tests",
+  "version": "1.0.0",
+  "description": "Puppeteer tests of Hoka running shoes' website",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Puppeteer",
+    "jest"
+  ],
+  "author": "Asad Hasan",
+  "license": "ISC",
+  "devDependencies": {
+    "@jest/globals": "^26.1.0",
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "expect-puppeteer": "^4.4.0",
+    "jest": "^26.1.0",
+    "jest-puppeteer": "^4.4.0",
+    "puppeteer": "^5.2.1"
+  }
+}
